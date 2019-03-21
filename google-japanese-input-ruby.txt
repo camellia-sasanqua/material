@@ -1,0 +1,1 @@
+../../setting/google-japanese-input-ruby.txt
