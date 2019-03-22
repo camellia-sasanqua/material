@@ -1,4 +1,4 @@
-# EmEditor アウトラインの Markdown 用設定
+# EmEditor で Markdown をアウトライン表示する設定
 
 * 最大レベル : 13
 * 一致した文字列を隠す/正規表現で置換する : ✓
