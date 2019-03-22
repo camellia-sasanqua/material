@@ -18,10 +18,9 @@
 ## markdown.ESY
 * EmEditor の「強調(1)」に入力する Markdown 用の設定です。
 
-## markdown-outline.txt
+## markdown-outline.md
 * EmEditor で Markdown をアウトライン表示にする設定です。
 * EmEditor にインポート機能はないので手動で入力してください。
-* アウトライン設定画面の右上にある最大レベルの設定変更を忘れないでください。
 
 ## memo.md
 * 主に中世ヨーロッパに関する参照など。
